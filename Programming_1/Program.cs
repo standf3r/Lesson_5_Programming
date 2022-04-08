@@ -28,3 +28,4 @@ MassiveStart(macos);
 Console.WriteLine();
 Console.WriteLine($"колличесво положительных {respositive}");
 Console.WriteLine($"колличесво отрицательных {resnegative}");
+//
