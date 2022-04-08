@@ -53,3 +53,5 @@ void process_array()
  {
      Console.WriteLine($"Число {A} отсутсвует в массиве");
  }
+
+ //
