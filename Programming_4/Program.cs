@@ -6,7 +6,7 @@ int[] mass = new int[perem];
 int index = 0;
 int flag = 0;
 
-
+//
 void MassiveStart(int[] array)
 {
 while(index < perem)
